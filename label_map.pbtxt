@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'non_glasses'
+}
+
+item {
+  id: 2
+  name: 'glasses'
+}
+
+item {
+  id: 3
+  name: 'sunglasses'
+}
+
+item {
+  id: 4
+  name: 'protected'
+}
