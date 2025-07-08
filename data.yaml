@@ -1,0 +1,11 @@
+train: C:/pytorch2/Safety glasses3/yoloformat_dataset/images/train
+val: C:/pytorch2/Safety glasses3/yoloformat_dataset/images/valid
+test: C:/pytorch2/Safety glasses3/yoloformat_dataset/images/test  # Optional
+
+nc: 4  
+names:
+  0: 'No_glass'       
+  1: 'glass'           
+  2: 'Sun_glass'   
+  3: 'Protected_glass'            
+
